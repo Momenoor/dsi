@@ -18,7 +18,7 @@
                     <div>
                         <font color="#3e3e3e" face="Tahoma">
                             <span style="font-size: 15px;">
-                                {{dd($creditors)}}
+
                             </span>
                         </font>
                         <br>
