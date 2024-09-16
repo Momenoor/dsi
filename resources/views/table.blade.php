@@ -1,4 +1,4 @@
-@extends('layout.app')
+@extends('layouts.app')
 @section('content')
     <div class="row">
 
@@ -16,11 +16,28 @@
                         <br>
                     </div>
                     <div>
-                        <font color="#3e3e3e" face="Tahoma">
-                            <span style="font-size: 15px;">
-
-                            </span>
-                        </font>
+                        <table>
+                            <thead>
+                            <tr>
+                                <th>English Name</th>
+                                <th>Arabic Name</th>
+                                <th>Amount</th>
+                            </tr>
+                            </thead>
+                            @foreach($creditors as $creditor)
+                                <tr>
+                                    <td>
+                                        {{$creditor->name_en}}
+                                    </td>
+                                    <td>
+                                        {{$creditor->name_ar}}
+                                    </td>
+                                    <td>
+                                        {{$creditor->amount}}
+                                    </td>
+                                </tr>
+                            @endforeach
+                        </table>
                         <br>
                     </div>
                 </div>
