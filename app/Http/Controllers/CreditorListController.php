@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\CreditorList;
 use Illuminate\Http\Request;
 
 class CreditorListController extends Controller
@@ -9,9 +10,7 @@ class CreditorListController extends Controller
     public function __invoke(Request $request, string $type = null)
     {
         // Handle logic based on the $type parameter
-        return response()->json([
-            'list_type' => $type,
-            'message' => "This is the {$type} list.",
-        ]);
+        $creditors = CreditorList::where('type', $type)->get();
+        return view('table', compact('creditors'));
     }
 }

@@ -6,15 +6,15 @@
     <title></title>
     <meta name="description" />
     <meta name="keywords" />
-    <link href="/Assets/plugins/bootstrap-jpa/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="/Assets/plugins/bootstrap-jpa/css/bootstrap-theme.css" rel="stylesheet" />
-    <link href="/Assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
-    <link href="/Assets/plugins/owl-carousel-2.3.4/assets/owl.carousel.min.css" rel="stylesheet" />
-    <link href="/Assets/plugins/plyr/plyr.min.css" rel="stylesheet" />
-    <link href="/Assets/plugins/select2/select2.min.css" rel="stylesheet" />
-    <link href="/Assets/plugins/zabuto-calendar/zabuto_calendar.min.css" rel="stylesheet" />
-    <link href="/Assets/css/jpa.min.css?v=8" rel="stylesheet" />
-    <link href="/Assets/css/addedstyles.min.css?v=12" rel="stylesheet" />
+    <link href="https://jpaemirates.com/Assets/plugins/bootstrap-jpa/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://jpaemirates.com/Assets/plugins/bootstrap-jpa/css/bootstrap-theme.css" rel="stylesheet" />
+    <link href="https://jpaemirates.com/Assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="https://jpaemirates.com/Assets/plugins/owl-carousel-2.3.4https://jpaemirates.com/Assets/owl.carousel.min.css" rel="stylesheet" />
+    <link href="https://jpaemirates.com/Assets/plugins/plyr/plyr.min.css" rel="stylesheet" />
+    <link href="https://jpaemirates.com/Assets/plugins/select2/select2.min.css" rel="stylesheet" />
+    <link href="https://jpaemirates.com/Assets/plugins/zabuto-calendar/zabuto_calendar.min.css" rel="stylesheet" />
+    <link href="https://jpaemirates.com/Assets/css/jpa.min.css?v=8" rel="stylesheet" />
+    <link href="https://jpaemirates.com/Assets/css/addedstyles.min.css?v=12" rel="stylesheet" />
 
 
 </head>
@@ -37,7 +37,7 @@
                     <span class="icon-bar"></span>
                 </button>
 
-                <a class="navbar-brand" href="/"><img src="/Assets/images/logo.png" /></a>
+                <a class="navbar-brand" href="/"><img src="https://jpaemirates.com/Assets/images/logo.png" /></a>
 
                 <div class="navbar-branch">
                     <h2 class="custom-logo-title">JPA AUDITING &amp; ACCOUNTING</h2>
@@ -170,23 +170,7 @@
 </section>
 <section class="page-content">
     <div class="container">
-        <div class="row">
-
-            <div class="col-md-12">
-                <div class="blog-post">
-                    <div class="page-subtitle">
-                        <h1>ABOUT US</h1>
-                        <p> </p>
-
-                    </div>
-
-                    <div class="the-text">
-                        <div style="text-align: left;"><br></div><div><br></div><div><font color="#3e3e3e" face="Tahoma"><span style="font-size: 15px;">The international Arbitrator Dr. Redha Darwish Al Rahma is Emarati Arbitrator born in UAE in 1958, he is Arbitrator, Consultant&nbsp;and expert in Finance &amp; Accounting, he has rich experience for more than 30 years since his graduation from the University of United Arab Emirates in 1982 in accounting and business administration and latest getting PhD in Financial Management&nbsp;from University&nbsp;of Paramount&nbsp;California in USA 2015, holds numerous certificates and various courses in the field of arbitration, Auditing&nbsp;and Accounting , including Diploma of international Arbitration from International Institute&nbsp; for Legal Sciences of Canada &nbsp;and Associate Degree from the International Institute of Arbitrators , he is fluent in several languages including Arabic , English and Urdu . He is certified arbitrator to the Dubai Courts and local arbitration centers, including Dubai International Arbitration Center( DIAC)&nbsp;and International Commercial Arbitration center for GCC in Bahrain and Egyptian Chamber of International and Global Arbitration including Canadian College of Legal Sciences and associate of International Institute of Arbitrators in London England( CIArb ), and associate of World Association of Arbitration in Brussels Belgium&nbsp;and Certified Registered&nbsp;Arbitrator with International Commercial Chamber in Paris, France ( ICC ).</span></font><br></div>                    </div>
-                    <div class="row">
-                    </div>
-                </div>
-            </div>
-        </div>
+        @yield('content')
     </div>
 </section>
 
@@ -205,10 +189,10 @@
             <div class="col-md-4 col-xs-6 pull-right">
                 <div class="text-right">
                     <ul class="list-unstyled list-inline">
-                        <li><a href="https://www.facebook.com/jpaemirates/" target="_blank"><img src="/Assets/images/f-icon-facebook.png" /></a></li>
-                        <li><a href="https://twitter.com/jpaemirates" target="_blank"><img src="/Assets/images/f-icon-twitter.png" /></a></li>
-                        <li><a href="https://www.youtube.com/channel/UCRAPEbfhVsBmeajMA0dM5ag" target="_blank"><img src="/Assets/images/f-icon-youtube.png" /></a></li>
-                        <li><a href="https://linkedin.com/jpaemirates" target="_blank"><img src="/Assets/images/f-icon-linkedin.png" /></a></li>
+                        <li><a href="https://www.facebook.com/jpaemirates/" target="_blank"><img src="https://jpaemirates.com/Assets/images/f-icon-facebook.png" /></a></li>
+                        <li><a href="https://twitter.com/jpaemirates" target="_blank"><img src="https://jpaemirates.com/Assets/images/f-icon-twitter.png" /></a></li>
+                        <li><a href="https://www.youtube.com/channel/UCRAPEbfhVsBmeajMA0dM5ag" target="_blank"><img src="https://jpaemirates.com/Assets/images/f-icon-youtube.png" /></a></li>
+                        <li><a href="https://linkedin.com/jpaemirates" target="_blank"><img src="https://jpaemirates.com/Assets/images/f-icon-linkedin.png" /></a></li>
                     </ul>
                     <p>© JPA AUDITING &amp; ACCOUNTING Member of JPA International <br> All rights reserved.</p>
                 </div>
@@ -238,15 +222,15 @@
     </div>
 </section>
 <div id="subscriber"></div>
-<script src="/Assets/plugins/jquery/jquery.min.js"></script>
-<script src="/Assets/plugins/bootstrap-jpa/js/bootstrap.min.js"></script>
-<script src="/Assets/plugins/owl-carousel-2.3.4/owl.carousel.min.js"></script>
-<script src="/Assets/scripts/jquery.validate.min.js"></script>
-<script src="/Assets/scripts/jquery.validate.unobtrusive.min.js"></script>
-<script src="/Assets/scripts/jquery.unobtrusive-ajax.min.js"></script>
-<script src="/Assets/plugins/plyr/plyr.min.js"></script>
-<script src="/Assets/plugins/zabuto-calendar/zabuto_calendar.min.js"></script>
-<script src="/Assets/scripts/core.js?v=21"></script>
+<script src="https://jpaemirates.com/Assets/plugins/jquery/jquery.min.js"></script>
+<script src="https://jpaemirates.com/Assets/plugins/bootstrap-jpa/js/bootstrap.min.js"></script>
+<script src="https://jpaemirates.com/Assets/plugins/owl-carousel-2.3.4/owl.carousel.min.js"></script>
+<script src="https://jpaemirates.com/Assets/scripts/jquery.validate.min.js"></script>
+<script src="https://jpaemirates.com/Assets/scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="https://jpaemirates.com/Assets/scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script src="https://jpaemirates.com/Assets/plugins/plyr/plyr.min.js"></script>
+<script src="https://jpaemirates.com/Assets/plugins/zabuto-calendar/zabuto_calendar.min.js"></script>
+<script src="https://jpaemirates.com/Assets/scripts/core.js?v=21"></script>
 
 <script type="text/javascript">
     var c = ContentDetailOperations();
