@@ -95,7 +95,7 @@
                 </div>
 
                 <ul class="nav navbar-nav visible-lg">
-                    <li class="main-menu-parent-menu-item"><a data-id="21" href="/">HOME</a></li>
+                    <li class="main-menu-parent-menu-item"><a data-id="21" href="https://jpaemirates.com/">HOME</a></li>
                     <li class="dropdown main-menu-parent-menu-item">
                         <a href="https://jpaemirates.com/en/contents/about-us" class="dropdown-toggle" data-toggle="dropdown" role="button"
                            aria-haspopup="true" aria-expanded="false" data-id="2">ABOUT US <i

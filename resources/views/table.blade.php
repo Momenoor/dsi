@@ -13,13 +13,17 @@
                 <div class="the-text">
                     <br>
                     <div>
+                        <b>Download Links &#8595;</b>
+                        <br>
+                        <br>
                         <div class="fl-col-content fl-node-content vamtam-show-bg-image"><div class="fl-module fl-module-rich-text fl-node-3ez4pkalvosq" data-node="3ez4pkalvosq">
+
                                 <div class="fl-module-content fl-node-content">
                                     <div class="fl-rich-text">
-                                        <p><span style="font-size: 20px;"><a href="https://www.drakescull.com/wp-content/uploads/2024/09/1-Sukuk-Holders.pdf">Creditors List as published on September 2024 (Sukuk holders)</a></span></p>
-                                        <p><span style="font-size: 20px;"><a href="https://www.drakescull.com/wp-content/uploads/2024/09/2-Commercial-List.pdf">Creditors List as published on September 2024 (</a><a href="https://www.drakescull.com/wp-content/uploads/2024/05/Cash-Settlement-Claim-Form.pdf">Cash Settlement</a><a href="https://www.drakescull.com/wp-content/uploads/2024/05/Creditors-List-as-published-on-January-30_2024.pdf">)</a></span></p>
-                                        <p><span style="font-size: 20px;"><a href="https://www.drakescull.com/wp-content/uploads/2024/09/3-DSI-undertaking-and-Cash-Settelment.pdf">Cash Settlement Claim Form.</a></span></p>
-                                        <p><span style="font-size: 20px;"><a href="https://www.drakescull.com/wp-content/uploads/2024/05/New-Sukuk-Claim-Form.pdf">Sukuk Claim Form </a></span></p>
+                                        <p><span><a href="https://www.drakescull.com/wp-content/uploads/2024/09/1-Sukuk-Holders.pdf">Creditors List as published on September 2024 (Sukuk holders)</a></span></p>
+                                        <p><span><a href="https://www.drakescull.com/wp-content/uploads/2024/09/2-Commercial-List.pdf">Creditors List as published on September 2024 (</a><a href="https://www.drakescull.com/wp-content/uploads/2024/05/Cash-Settlement-Claim-Form.pdf">Cash Settlement</a><a href="https://www.drakescull.com/wp-content/uploads/2024/05/Creditors-List-as-published-on-January-30_2024.pdf">)</a></span></p>
+                                        <p><span><a href="https://www.drakescull.com/wp-content/uploads/2024/09/3-DSI-undertaking-and-Cash-Settelment.pdf">Cash Settlement Claim Form.</a></span></p>
+                                        <p><span><a href="https://www.drakescull.com/wp-content/uploads/2024/05/New-Sukuk-Claim-Form.pdf">Sukuk Claim Form </a></span></p>
                                     </div>
                                 </div>
                             </div>
