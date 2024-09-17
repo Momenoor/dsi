@@ -8,7 +8,12 @@ Route::get('/', function () {
 });
 
 
-Route::get('list/{commercial}', CreditorListController::class)->name('commercial-list');
-Route::get('list/{sokuk}', CreditorListController::class)->name('sokuk-list');
-Route::get('list/{labour}', CreditorListController::class)->name('labour-list');
+Route::get('list/{type}', CreditorListController::class)->name('creditor-list');
+
+Route::get('/import', function () {
+    return view('import');
+});
+Route::post('/import', [\App\Http\Controllers\CreditorListImportController::class, 'import'])->name('creditor.list.import');
+
+
 

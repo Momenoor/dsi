@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Univers Condensed';
+    src: url("../fonts/Univers/UniversCondensed.eot?");
+    src: url("../fonts/Univers/UniversCondensed.eot?#iefix") format("embedded-opentype"),url("../fonts/Univers/UniversCondensed.woff") format("woff"),url("../fonts/Univers/UniversCondensed.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Univers';
+    src: url("../fonts/Univers/Univers-Italic.eot?");
+    src: url("../fonts/Univers/Univers-Italic.eot?#iefix") format("embedded-opentype"),url("../fonts/Univers/Univers-Italic.woff") format("woff"),url("../fonts/Univers/Univers-Italic.ttf") format("truetype");
+    font-weight: normal;
+    font-style: italic
+}
+
+@font-face {
+    font-family: 'Univers';
+    src: url("../fonts/Univers/Univers.eot?");
+    src: url("../fonts/Univers/Univers.eot?#iefix") format("embedded-opentype"),url("../fonts/Univers/Univers.woff") format("woff"),url("../fonts/Univers/Univers.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Univers';
+    src: url("../fonts/Univers/Univers-Bold.eot?");
+    src: url("../fonts/Univers/Univers-Bold.eot?#iefix") format("embedded-opentype"),url("../fonts/Univers/Univers-Bold.woff") format("woff"),url("../fonts/Univers/Univers-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal
+}
